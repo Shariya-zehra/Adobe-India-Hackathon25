@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+CMD ["python", "extract_outline.py"]
+=======
+
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+CMD ["python", "extract_outline.py"]
+>>>>>>> 505d80d165296870c46c9117f2f9703f4534df0d
