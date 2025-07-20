@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# VS Code and JetBrains IDEs
+.vscode/
+.idea/
+
+# Input/output folders (used during testing)
+Challenge_1a/input/
+Challenge_1a/output/
+Challenge_1b/input/
+Challenge_1b/output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs or temp files
+*.log
+*.tmp
